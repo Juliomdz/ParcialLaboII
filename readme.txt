@@ -1,0 +1,1 @@
+En este repositorio se subirán los examenes parciales de "Laboratorio II" para la UTN FRA.
