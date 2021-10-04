@@ -1,0 +1,39 @@
+C:\Users\julio\source\repos\PetShopApp\Vista\bin\Debug\net5.0-windows\Vista.exe
+C:\Users\julio\source\repos\PetShopApp\Vista\bin\Debug\net5.0-windows\Vista.deps.json
+C:\Users\julio\source\repos\PetShopApp\Vista\bin\Debug\net5.0-windows\Vista.runtimeconfig.json
+C:\Users\julio\source\repos\PetShopApp\Vista\bin\Debug\net5.0-windows\Vista.runtimeconfig.dev.json
+C:\Users\julio\source\repos\PetShopApp\Vista\bin\Debug\net5.0-windows\Vista.dll
+C:\Users\julio\source\repos\PetShopApp\Vista\bin\Debug\net5.0-windows\ref\Vista.dll
+C:\Users\julio\source\repos\PetShopApp\Vista\bin\Debug\net5.0-windows\Vista.pdb
+C:\Users\julio\source\repos\PetShopApp\Vista\obj\Debug\net5.0-windows\Vista.csproj.AssemblyReference.cache
+C:\Users\julio\source\repos\PetShopApp\Vista\obj\Debug\net5.0-windows\Vista.csproj.GenerateResource.cache
+C:\Users\julio\source\repos\PetShopApp\Vista\obj\Debug\net5.0-windows\Vista.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\julio\source\repos\PetShopApp\Vista\obj\Debug\net5.0-windows\Vista.AssemblyInfoInputs.cache
+C:\Users\julio\source\repos\PetShopApp\Vista\obj\Debug\net5.0-windows\Vista.AssemblyInfo.cs
+C:\Users\julio\source\repos\PetShopApp\Vista\obj\Debug\net5.0-windows\Vista.csproj.CoreCompileInputs.cache
+C:\Users\julio\source\repos\PetShopApp\Vista\obj\Debug\net5.0-windows\Vista.dll
+C:\Users\julio\source\repos\PetShopApp\Vista\obj\Debug\net5.0-windows\ref\Vista.dll
+C:\Users\julio\source\repos\PetShopApp\Vista\obj\Debug\net5.0-windows\Vista.pdb
+C:\Users\julio\source\repos\PetShopApp\Vista\obj\Debug\net5.0-windows\Vista.genruntimeconfig.cache
+C:\Users\julio\source\repos\PetShopApp\Vista\obj\Debug\net5.0-windows\Vista.Properties.Resources.resources
+C:\Users\julio\source\repos\PetShopApp\Vista\obj\Debug\net5.0-windows\Vista.frmMainMenuAdmin.resources
+C:\Users\julio\source\repos\PetShopApp\Vista\obj\Debug\net5.0-windows\Vista.frmMainMenuEmpleado.resources
+C:\Users\julio\source\repos\PetShopApp\Vista\bin\Debug\net5.0-windows\BibliotecaClases.dll
+C:\Users\julio\source\repos\PetShopApp\Vista\bin\Debug\net5.0-windows\BibliotecaClases.pdb
+C:\Users\julio\source\repos\PetShopApp\Vista\obj\Debug\net5.0-windows\Vista.csproj.CopyComplete
+C:\Users\julio\source\repos\PetShopApp\Vista\obj\Debug\net5.0-windows\Vista.frmLogIn.resources
+C:\Users\julio\source\repos\PetShopApp\Vista\obj\Debug\net5.0-windows\Vista.frmCrearEmpleado.resources
+C:\Users\julio\source\repos\PetShopApp\Vista\obj\Debug\net5.0-windows\Vista.frmCrearAdministrador.resources
+C:\Users\julio\source\repos\PetShopApp\Vista\obj\Debug\net5.0-windows\Vista.frmRegistroVentas.resources
+C:\Users\julio\source\repos\PetShopApp\Vista\obj\Debug\net5.0-windows\Vista.frmNuevaVenta.resources
+C:\Users\julio\source\repos\PetShopApp\Vista\obj\Debug\net5.0-windows\Vista.frmCrearCliente.resources
+C:\Users\julio\source\repos\PetShopApp\Vista\obj\Debug\net5.0-windows\Vista.frmBorrarAdministrador.resources
+C:\Users\julio\source\repos\PetShopApp\Vista\obj\Debug\net5.0-windows\Vista.frmBorrarEmpleado.resources
+C:\Users\julio\source\repos\PetShopApp\Vista\obj\Debug\net5.0-windows\Vista.frmBorrarCliente.resources
+C:\Users\julio\source\repos\PetShopApp\Vista\obj\Debug\net5.0-windows\Vista.frmBorrarEmpleado - Copia.resources
+C:\Users\julio\source\repos\PetShopApp\Vista\obj\Debug\net5.0-windows\Vista.frmBorrarEmpleado - Copia - Copia.resources
+C:\Users\julio\source\repos\PetShopApp\Vista\obj\Debug\net5.0-windows\Vista.frmMenuProductos.resources
+C:\Users\julio\source\repos\PetShopApp\Vista\obj\Debug\net5.0-windows\Vista.frmAltaProducto.resources
+C:\Users\julio\source\repos\PetShopApp\Vista\obj\Debug\net5.0-windows\Vista.frmBorrarEmpleado - Copia - Copia (2).resources
+C:\Users\julio\source\repos\PetShopApp\Vista\obj\Debug\net5.0-windows\Vista.frmBorrarEmpleado - Copia - Copia - Copia.resources
+C:\Users\julio\source\repos\PetShopApp\Vista\obj\Debug\net5.0-windows\Vista.frmModificarEmpleado.resources

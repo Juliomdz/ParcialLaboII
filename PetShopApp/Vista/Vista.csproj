@@ -1,0 +1,70 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net5.0-windows</TargetFramework>
+    <UseWindowsForms>true</UseWindowsForms>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\BibliotecaClases\BibliotecaClases.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Compile Update="frmBorrarCliente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmAltaProducto.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmMainMenuEmpleado.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmModificarEmpleado.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmMenuProductos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmBorrarEmpleado.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmCrearAdministrador.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmCrearCliente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmNuevaVenta.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmCrearEmpleado.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Properties\Resources.Designer.cs">
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+  </ItemGroup>
+
+  <ItemGroup>
+    <EmbeddedResource Update="frmBorrarEmpleado - Copia - Copia %282%29.resx">
+      <DependentUpon>frmBorrarEmpleado.resx</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Update="frmBorrarEmpleado - Copia - Copia - Copia.resx">
+      <DependentUpon>frmBorrarEmpleado - Copia - Copia.resx</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Update="frmBorrarEmpleado - Copia - Copia.resx">
+      <DependentUpon>frmBorrarEmpleado.resx</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Update="frmBorrarEmpleado - Copia.resx">
+      <DependentUpon>frmBorrarEmpleado.resx</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Update="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+  </ItemGroup>
+
+</Project>
